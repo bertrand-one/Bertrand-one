@@ -4,7 +4,7 @@
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-Node.js-green?style=for-the-badge)
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-Express.js-lightgrey?style=for-the-badge)
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a diverse skill set in modern web technologies. Here's a bit more about me:
+<h3>Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a diverse skill set in modern web technologies. Here's a bit more about me:</h3>
 
 ## 🚀 About Me
 
