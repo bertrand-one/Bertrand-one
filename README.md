@@ -67,7 +67,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <a href="https://www.bertrand.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-Pending-lightgrey?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
       </a>
 
 ## 🌱 I’m currently learning
