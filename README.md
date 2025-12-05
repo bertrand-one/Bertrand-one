@@ -1,5 +1,5 @@
 <h1 align="center">IRADUKUNDA Bertrand</h1>
-<h3 align="center">Software Engineer • Web Systems Developer • Digital Product Builder</h3>
+<h3 align="center">Software Engineer • Full-stack Developer • Digital Product Builder</h3>
 
 <p align="center">
   <a href="http://linkedin.com/in/iradukunda-bertrand">
@@ -63,7 +63,7 @@ Built with focus on speed, simplicity, and production readiness.
 ### Za-Soma — Digital Library Platform  
 **https://zasoma.com**
 
-![Za-Soma Preview](https://drive.google.com/uc?export=view&id=1CK7jESH_Nh4gqOjV_iZKxAxuo4f5G8s0)
+![Za-Soma Preview](https://drive.google.com/uc?export=view&id=1IXayoQgKGEaNOzOtWom8-1aCwjIGMBaQ)
 
 A digital content distribution system offering:
 - Online reading access
@@ -77,7 +77,7 @@ Engineered for educational reach and content performance.
 ### Youth Generation Club — Organizational Platform  
 **https://youthgenerationclub.org**
 
-![Youth Generation Club Preview](https://drive.google.com/uc?export=view&id=1IXayoQgKGEaNOzOtWom8-1aCwjIGMBaQ)
+![Youth Generation Club Preview](https://drive.google.com/uc?export=view&id=1WA8Re5DMujxPkMu3tsr87Zq8feifCzHw)
 
 A responsive organizational website developed for:
 - Community visibility
