@@ -1,133 +1,137 @@
-<h1 align="center">🚀 IRADUKUNDA Bertrand</h1>
-<h3 align="center">Full-Stack Developer | Tech Innovator | Future Engineer</h3>
+<h1 align="center">IRADUKUNDA Bertrand</h1>
+<h3 align="center">Software Engineer • Web Systems Developer • Digital Product Builder</h3>
 
 <p align="center">
-  <a href="http://linkedin.com/in/iradukunda-bertrand" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  <a href="http://linkedin.com/in/iradukunda-bertrand">
+    <img src="https://img.shields.io/badge/LinkedIn-iradukunda--bertrand-blue?style=flat&logo=linkedin">
   </a>
-  <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-success?style=flat">
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving%20Tech-orange?style=flat">
+  <a href="http://github.com/bertrand-one">
+    <img src="https://img.shields.io/badge/GitHub-bertrand--one-black?style=flat&logo=github">
+  </a>
+  <a href="http://bertrand.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-bertrand.vercel.app-darkgreen?style=flat&logo=vercel">
+  </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+## Professional Summary
 
-I’m **IRADUKUNDA Bertrand**, an 18-year-old **Full-Stack Developer from Rwanda** with a deep passion for **building real-world problem-solving systems**.
+I engineer **scalable, performance-driven digital platforms** with strong focus on **clean architecture, usability, and system reliability**. I build products that move from idea to production with precision and long-term maintainability.
 
-I started my journey by building inventory and trading management software from scratch—even before fully mastering development. Today, I focus on:
 
-- ✅ **Clean, scalable, and secure systems**
-- ✅ **Business automation & digital transformation**
-- ✅ **Innovative software + hardware solutions**
-- ✅ **AI-powered & smart inventory systems**
+## Technology Stack
 
-> **My dream:** To create technology that genuinely changes how people and businesses work.
-
----
-
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-- React.js  
-- Tailwind CSS  
-- Bootstrap 3 & 4  
-- HTML5, CSS3, JavaScript  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-- PHP  
-
-### 🗄️ Databases
-- MySQL  
-- PostgreSQL  
-
-### 🎨 UI/UX & Design
-- Figma  
-- Adobe Photoshop  
-- Adobe Illustrator  
-
-### 🔐 Other Skills
-- Authentication & Session Management  
-- REST APIs  
-- File Upload Systems  
-- Performance Optimization  
-- Git & GitHub  
-- Deployment (Vercel, Shared Hosting)
-
----
-
-## 💡 What I’m Currently Working On
-
-- 📦 Advanced **Inventory & Stock Management Systems**
-- 🤖 **AI-powered counting & automation**
-- 🧾 Full **Business Accounting & Transaction Systems**
-- 🔗 Exploring **Blockchain & Machine Learning**
-- 🛠️ Preparing for **National Exams (May 2025)** while building real products
-
----
-
-## 🏆 Key Projects & Experience
-
-- **Inventory & Trader Management Software**  
-  End-to-end system for stock, transactions, profits, and history.
-
-- **Authentication System (Node + MySQL + Sessions)**  
-  Secure login with bcrypt, sessions, and multi-field authentication.
-
-- **Image Upload System (React + Express + MySQL)**  
-  File storage, preview, and server handling.
-
-- **Business Software for Tea Plantation Company**  
-  Real client project for system automation.
-
-- **cinemaloverz.com**  
-  Movie recommendation platform.
-
----
-
-## 🧭 My Development Philosophy
-
-- ⚡ *Performance before complexity*  
-- 🔐 *Security is not optional*  
-- 🧠 *Think in systems, not features*  
-- 🛠️ *Build → Break → Improve → Scale*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170">
+### Programming & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs">
+  <img src="https://img.shields.io/badge/React-black?logo=react">
+  <img src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs">
+  <img src="https://img.shields.io/badge/Python-black?logo=python">
+  <img src="https://img.shields.io/badge/Laravel-black?logo=laravel">
+  <img src="https://img.shields.io/badge/Flutter-black?logo=flutter">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwindcss">
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your real GitHub username.
+### Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+  <img src="https://img.shields.io/badge/Docker-black?logo=docker">
+  <img src="https://img.shields.io/badge/Figma-black?logo=figma">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-black?logo=adobeillustrator">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop">
+</p>
 
----
 
-## 🌍 Vision
+## Selected Digital Products
 
-I’m not just learning to code —  
-I’m **building tools that prevent theft, grow businesses, improve education, and automate Africa’s future.**
 
-In the long term, I aim to:
-- Launch a **tech company**
-- Build **smart devices**
-- Create **AI-powered business systems**
-- Contribute to **global open-source innovation**
+### CinemaLoverz — Movie Recommendation Platform  
+**https://cinemaloverz.com**
 
----
+![CinemaLoverz Preview](https://drive.google.com/uc?export=view&id=1blDy1KUYQfxChQiMPQT_4-KHhQWJ298x)
 
-## 📬 Contact Me
+A performance-optimized movie discovery platform designed for:
+- Fast content navigation
+- Mobile-first user experience
+- Clean modern interface
+- Scalable frontend architecture
 
-- 💼 LinkedIn: http://linkedin.com/in/iradukunda-bertrand  
-- 🌍 Location: Kigali, Rwanda  
-- 💡 Open to: Internships, Freelance, Collaborations, Startups
+Built with focus on speed, simplicity, and production readiness.
 
----
+
+### Za-Soma — Digital Library Platform  
+**https://zasoma.com**
+
+![Za-Soma Preview](https://drive.google.com/uc?export=view&id=1CK7jESH_Nh4gqOjV_iZKxAxuo4f5G8s0)
+
+A digital content distribution system offering:
+- Online reading access
+- Structured knowledge delivery
+- Scalable backend design
+- Minimal, accessible UI
+
+Engineered for educational reach and content performance.
+
+
+### Youth Generation Club — Organizational Platform  
+**https://youthgenerationclub.org**
+
+![Youth Generation Club Preview](https://drive.google.com/uc?export=view&id=1IXayoQgKGEaNOzOtWom8-1aCwjIGMBaQ)
+
+A responsive organizational website developed for:
+- Community visibility
+- Public information delivery
+- Organizational branding
+- Multi-device consistency
+
+Focused on clarity, accessibility, and strong visual communication.
+
+
+
+## Soft Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Leadership-black">
+  <img src="https://img.shields.io/badge/Communication-black">
+  <img src="https://img.shields.io/badge/Collaboration-black">
+  <img src="https://img.shields.io/badge/Time_Management-black">
+  <img src="https://img.shields.io/badge/Accountability-black">
+  <img src="https://img.shields.io/badge/Growth_Mindset-black">
+</p>
+
+
+## Development Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Platforms-black?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/Digital%20Libraries%20%26%20Content%20Systems-black?style=flat&logo=bookstack">
+  <img src="https://img.shields.io/badge/Business%20Automation-black?style=flat&logo=apacheairflow">
+  <img src="https://img.shields.io/badge/Performance--First%20Frontend-black?style=flat&logo=googlechrome">
+  <img src="https://img.shields.io/badge/Scalable%20Backend%20Architectures-black?style=flat&logo=serverfault">
+</p>
+
+<p>
+I focus on engineering production-grade systems that are optimized for <b>speed, scalability, and usability</b>, with strong emphasis on <b>real-world business impact</b> and <b>long-term maintainability</b>.
+</p>
+
+
+## Engineering Principles
+
+<p>
+  <img src="https://img.shields.io/badge/Clean%20%26%20Maintainable%20Code-black?style=flat&logo=codeclimate">
+  <img src="https://img.shields.io/badge/Performance%20Before%20Complexity-black?style=flat&logo=gitlfs">
+  <img src="https://img.shields.io/badge/Security%20by%20Design-black?style=flat&logo=letsencrypt">
+  <img src="https://img.shields.io/badge/User--Centered%20Architecture-black?style=flat&logo=materialdesign">
+  <img src="https://img.shields.io/badge/Long--Term%20Scalability-black?style=flat&logo=kubernetes">
+</p>
+
+<p>
+Every system I build follows a disciplined engineering approach: <b>simple where possible, powerful where necessary, secure by default, and designed to scale with real-world growth.
+</b></p>
+
+
 
 <p align="center">
-  <strong>“Small systems create jobs. Big systems change nations.”</strong>
+  <strong>Building scalable digital systems with precision and impact.</strong>
 </p>
